@@ -2,7 +2,7 @@
 
 #### 后端逻辑
 
-![业务逻辑](/Users/yongpeng/IdeaProjects/kickSnakes/业务逻辑.png)
+![业务逻辑](业务逻辑.png)
 
 #### 使用说明
 
